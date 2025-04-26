@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkable_pro_material_react_ts=self.webpackChunkable_pro_material_react_ts||[]).push([[893],{66893:e=>{e.exports=JSON.parse('{"documentation":"\u6587\u732e\u8d44\u6599","others":"\u5176\u4ed6","roadmap":"\u8def\u7ebf\u56fe","sample-page":"\u6837\u672c\u9875\u9762"}')}}]);

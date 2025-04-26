@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkable_pro_material_react_ts=self.webpackChunkable_pro_material_react_ts||[]).push([[252],{69252:e=>{e.exports=JSON.parse('{"documentation":"Documentation","others":"Autres","roadmap":"Feuille de route","sample-page":"Page d\'exemple"}')}}]);
