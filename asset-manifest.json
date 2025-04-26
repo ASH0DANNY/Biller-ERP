@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://ableproadmin.com/react/static/css/main.8cbabe11.css",
-    "main.js": "https://ableproadmin.com/react/static/js/main.c90ec875.js",
+    "main.js": "https://ableproadmin.com/react/static/js/main.5ac61fbc.js",
     "static/js/505.6eb85b63.chunk.js": "https://ableproadmin.com/react/static/js/505.6eb85b63.chunk.js",
     "static/js/181.ad3e8ea9.chunk.js": "https://ableproadmin.com/react/static/js/181.ad3e8ea9.chunk.js",
     "static/js/980.2ba1ca49.chunk.js": "https://ableproadmin.com/react/static/js/980.2ba1ca49.chunk.js",
@@ -40,6 +40,6 @@
   },
   "entrypoints": [
     "static/css/main.8cbabe11.css",
-    "static/js/main.c90ec875.js"
+    "static/js/main.5ac61fbc.js"
   ]
 }
